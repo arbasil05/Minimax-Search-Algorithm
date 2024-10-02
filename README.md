@@ -268,7 +268,7 @@ def main():
 if __name__ == "__main__":
     main()
 
----
+```
 
 ## Sample Input and Output
 
